@@ -8,7 +8,7 @@ This version has been written using Visual Basic 6. A new version written in C# 
 
 FAD3 requires that you install the MapWinGIS mapping component. Click on the link below to download the 32-bit installer.
 
-### [MapWinGIS v4.9.6.0](https://github.com/MapWindow/MapWinGIS/releases/download/v4.9.6.0/MapWinGIS-only-v4.9.6.0-Win32.exe)
+### [MapWinGIS v4.9.6.0](https://github.com/MapWindow/MapWinGIS/releases). Download the [win32.exe](https://github.com/MapWindow/MapWinGIS/releases/download/v4.9.6.0/MapWinGIS-only-v4.9.6.1-Win32.exe) installer
 
 You can also explore what MapWinGIS is all about by going to their [GitHub page](https://github.com/MapWindow)
 
