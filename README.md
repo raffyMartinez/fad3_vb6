@@ -4,7 +4,7 @@
 
 FAD3 is a MS Windows database application for managing data collected from fishery assessment surveys.
 
-This version has been written using Visual Basic 6. A new version written in C# is found in another [repository](https://github.com/raffyMartinez/faddotnet). Please feel free to download the source code and contribute. I still have to fully understand how gitHub works. If you wish to help, then I better know how to make the (c# faddotnet)[https://github.com/raffyMartinez/faddotnet] repository work with multiple contributors.
+This version has been written using Visual Basic 6. A new version written in C# is found in another [repository](https://github.com/raffyMartinez/faddotnet). Please feel free to download the source code and contribute. I still have to fully understand how gitHub works. If you wish to help, then I better know how to make the [c# faddotnet](https://github.com/raffyMartinez/faddotnet) repository work with multiple contributors.
 
 FAD3 requires that you install the MapWinGIS mapping component. Click on the link below to download the 32-bit installer.
 
